@@ -108,7 +108,7 @@ ${list.command
 
         m.reply({
             video: {
-                url: "https://files.catbox.moe/f1l5ij.mp4"
+                url: "https://files.catbox.moe/jrkn9u.mp4"
             },
             caption: caption,
             gifPlayback: true,
@@ -152,35 +152,35 @@ ${readmore}
 ${list.map((a) => `│    =〆 ${m.prefix + m.command} ${a}`).join("\n")}
 ⏤͟͟͞͞╳────────── .✦
 
-Kalau Error Bisa Hubungi Ke .owner gass`
+kalau error bisa hubungi ke .owner`
 
 
         let sections = [{
                 title: '<!> Informasi Bot',
                 rows: [{
-                        title: 'Script🗒️',
-                        description: `Menampilkan pesan Script`,
+                        title: 'script',
+                        description: `menampilkan pesan Script`,
                         id: `${m.prefix}sc`
                     },
                     {
-                        title: 'tqto👤',
-                        description: `Menampilkan pesan thank you to`,
+                        title: 'tqto',
+                        description: `menampilkan pesan thank you to`,
                         id: `${m.prefix}ping`
                     },
                     {
-                        title: 'Creator 👑',
-                        description: `Menampilkan pesan thank you to`,
+                        title: 'devoloper',
+                        description: `menampilkan pesan thank you to`,
                         id: `${m.prefix}owner`
                     },
                     {
-                        title: 'AllMenu📘',
-                        description: `Menampilkan pesan allmenu`,
+                        title: 'allmenu📘',
+                        description: `menampilkan pesan allmenu`,
                         id: `${m.prefix}allmenu`
                     },
                 ]
             },
             {
-                title: '< ! > Ai',
+                title: '< ! > ai',
                 rows: [{
                         title: 'Ai Yuta',
                         description: `Ai Yuta Dari Anime: Jujutsu kaisen`,
