@@ -258,7 +258,7 @@ kalau error bisa hubungi ke .owner`
 
         await m.reply({
             audio: {
-                url: "https://files.catbox.moe/ujx8u9.m4a"
+                url: "https://files.catbox.moe/gw9cb7.mp3"
             },
             mimetype: 'audio/mpeg',
             ptt: true
@@ -270,7 +270,7 @@ deku.command = "menu"
 deku.alias = ["leogg", "dekugg", "dekugz", "help"]
 deku.category = ["main"]
 deku.settings = {}
-deku.description = "Memunculkan menu"
+deku.description = "memunculkan menu"
 deku.loading = true
 
 module.exports = deku
