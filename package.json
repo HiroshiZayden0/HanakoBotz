@@ -1,6 +1,6 @@
 {
-  "name": "HanakoBotz",
-  "version": "1.3.0",
+  "name": "ᴍɪᴜʀᴀᴋᴀɪᴋᴜɴ-ʙᴏᴛᴢ",
+  "version": "1.0",
   "description": "- WhatsApp bot using Library Baileys",
   "main": "index.js",
   "type": "commonjs",
@@ -16,7 +16,7 @@
   "keywords": [
     "botwa"
   ],
-  "author": "HanakoBotz",
+  "author": "ᴍɪᴜʀᴀᴋᴀɪᴋᴜɴ-ʙᴏᴛᴢ",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/LeooxzyDekuu/HanakoBotz/issues"
