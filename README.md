@@ -1,4 +1,4 @@
-***HanakoBotz | 1.3.0*** | ***Create By: deku || base: script Axel network***
+***ᴍɪᴜʀᴀᴋᴀɪᴋᴜɴ-ʙᴏᴛᴢ | 1.0*** | ***Create By: hiroshi || base: script Axel network***
 
 ![Logo](https://files.catbox.moe/movzsb.jpg)
 
@@ -9,9 +9,9 @@
 
 ```javascript
 {
-  message: Message { conversation: '>_ Welcome to Hanako' },
+  message: Message { conversation: '>_ Welcome to miurakai' },
   type: 'conversation',
-  msg: '>_ Welcome to HanakoBotz',
+  msg: '>_ Welcome to ᴍɪᴜʀᴀᴋᴀɪᴋᴜɴ-ʙᴏᴛᴢ',
   isMedia: false,
   key: {
     remoteJid: '6283136099660@s.whatsapp.net',
@@ -31,8 +31,8 @@
   body: '>_ Welcome to HanakoBotz',
   prefix: '',
   command: '>_',
-  args: [ 'Welcome', 'to', 'HanakoBotz' ],
-  text: 'Welcome to HanakoBotz',
+  args: [ 'welcome', 'to', 'ᴍɪᴜʀᴀᴋᴀɪᴋᴜɴ-ʙᴏᴛᴢ' ],
+  text: 'Welcome to ᴍɪᴜʀᴀᴋᴀɪᴋᴜɴ-ʙᴏᴛᴢ',
   isOwner: true,
   download: [AsyncFunction (anonymous)]
 }
@@ -41,12 +41,12 @@
 
 ```javascript
 const config = {
-    owner: ["6283136099660"],
-    name: "ʜᴀɴᴀᴋᴏ-ᴋᴜɴ-ʙᴏᴛᴢ",
-    ownername: 'ʟᴇᴏᴏxᴢʏ', 
-    ownername2: 'ᴅᴇᴋᴜ',
+    owner: ["6282244004772"],
+    name: "ᴍɪᴜʀᴀᴋᴀɪᴋᴜɴ-ʙᴏᴛᴢ",
+    ownername: 'Hiroshi', 
+    ownername2: 'Hiroshi',
     prefix: [".", "?", "!", "/", "#"], //Tambahin sendiri prefix nya kalo kurang
-    wwagc: 'https://chat.whatsapp.com/JyeT1hdCPJeLy95tzx5eyI',
+    wwagc: 'https://chat.whatsapp.com/HIA40dn2HNI6ZcRxw5tEOc',
     saluran: '120363279195205552@newsletter', 
     jidgroupnotif: '120363266755712733@g.us', 
     saluran2: '120363335701540699@newsletter', 
@@ -54,8 +54,8 @@ const config = {
     wach: 'https://whatsapp.com/channel/0029VadFS3r89inc7Jjus03W', 
     sessions: "sessions",
     sticker: {
-      packname: "〆 ʜᴀɴᴀᴋᴏ-ᴋᴜɴ-ʙᴏᴛᴢ",
-      author: "ʙʏ: ᴅᴇᴋᴜ/ʟᴇᴏᴏxᴢʏ 〆"
+      packname: "",
+      author: ""
     },
    messages: {
       wait: "*( Loading )* Tunggu Sebentar...",
@@ -115,8 +115,8 @@ break
 ```
 ## 📢 Jgn Lupa Follow Channel dan Join Group ya
 
-**Base Sc: https://whatsapp.com/channel/0029Vb0YWvYJ3jusF2nk9U1P**
+**Base Sc:**
 
-**Ch-1: https://whatsapp.com/channel/0029VadFS3r89inc7Jjus03W**
+**Group-1: https://chat.whatsapp.com/HIA40dn2HNI6ZcRxw5tEOc**
 
-**Ch-2: https://whatsapp.com/channel/0029VateyJuKWEKhJMRKEL20**
+**Group-2: https://chat.whatsapp.com/ExLN5FFuIGC8i6Z7p6LDs8**
