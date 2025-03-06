@@ -104,7 +104,7 @@ ${matches.map((a, i) => `│    =〆 ${m.prefix + a}`).join("\n")}`);
 
     m.reply({
         video: {
-            url: "https://files.catbox.moe/jrkn9u.mp4"
+            url: "https://files.catbox.moe/t9j426.mp4"
         },
         caption: caption,
         gifPlayback: true,
