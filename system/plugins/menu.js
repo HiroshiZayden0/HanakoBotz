@@ -108,7 +108,7 @@ ${list.command
 
         m.reply({
             video: {
-                url: "https://files.catbox.moe/jrkn9u.mp4"
+                url: "https://files.catbox.moe/t9j426.mp4"
             },
             caption: caption,
             gifPlayback: true,
@@ -258,7 +258,7 @@ kalau error bisa hubungi ke .owner`
 
         await m.reply({
             audio: {
-                url: "https://files.catbox.moe/gw9cb7.mp3"
+                url: "https://files.catbox.moe/bwrea9.mp3"
             },
             mimetype: 'audio/mpeg',
             ptt: true
