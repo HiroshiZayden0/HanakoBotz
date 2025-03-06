@@ -2,7 +2,7 @@ const fs = require('node:fs');
 
 const config = {
     owner: ["6282244004772"],
-    name: "ᴍɪᴜʀᴀᴋᴀɪᴋᴜɴ-ʙᴏᴛᴢ",
+    name: "ɴᴀɢɪ ꜱᴇɪꜱʜɪʀᴏ-ʙᴏᴛᴢᴢ",
     ownername: 'Hiroshi', 
     ownername2: 'Hiroshi',
     prefix: [".", "?", "!", "/", "#"], //Tambahin sendiri prefix nya kalo kurang
